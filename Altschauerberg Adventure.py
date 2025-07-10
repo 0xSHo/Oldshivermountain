@@ -69,9 +69,9 @@ def Vor_der_Schanze():
   DU BIST DERJENICHE!
 
   Du steigst aus deinem 1997er Toyota Corolla, schließt mit einem Ruck die Tür hinter dir und atmest noch
-  einmal durch. Vor die steht ein baufälliges, heruntergekommenes Anwesen. Die Fassade erstrahlt längst nicht mehr
+  einmal durch. Vor dir steht ein baufälliges, heruntergekommenes Anwesen. Die Fassade erstrahlt längst nicht mehr
   in dem strahlenden Gelb, wie es vielleicht mal vor 20 Jahren war. Stattdessen zieren zerschlagene Eier die Hauswand
-  und an manchen Stellen wurde der Putz von einem Hochdruckreiniger weggefegt. Du fragst dich, wer so dumm sein kann, 
+  und an manchen Stellen wurde der Putz von einem Hochdruckwasserreiniger weggefegt. Du fragst dich, wer so dumm sein kann, 
   dass er denkt, mit einem HOCHDRUCKWASSERREINIGER seine Hauswand zu säubern. Dann fällt dir wieder ein,
   wo du dich gerade befindest. Du trittst näher an das metallische Hoftor heran, das von den letzten dreihundert Besuchen 
   ziemlich in Mitleidenschaft gezogen wurde. Als du einen Fuß auf das Grundstügg von Häutpling Wasserbein setzt, ertönt 
